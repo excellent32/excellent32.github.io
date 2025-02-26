@@ -1,0 +1,10 @@
+{
+  "name": "@tg/third-party",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@tg/shadcn": "workspace:*"
+  }
+}

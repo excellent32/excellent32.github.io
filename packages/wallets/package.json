@@ -1,0 +1,15 @@
+{
+  "name": "@tg/wallets",
+  "version": "0.1.0",
+  "description": "",
+  "devDependencies": {
+    "@dynamic-labs/ethereum": "^3.9.7",
+    "@dynamic-labs/sdk-react-core": "^3.9.7",
+    "@dynamic-labs/solana": "^3.9.7",
+    "@solana/web3.js": "^1.98.0",
+    "@solflare-wallet/sdk": "^1.4.2",
+    "viem": "^2.22.3",
+    "@tg/shadcn": "workspace:*"
+  },
+  "dependencies": {}
+}

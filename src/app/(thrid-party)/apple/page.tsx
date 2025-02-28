@@ -31,8 +31,8 @@ export default function Page() {
     await loadAppleAuthScript();
 
     AppleID.auth.init({
-      response_type: 'code id_token',
-      clientId: 'service.pulse.social',
+      //response_type: 'code id_token',
+      clientId: 'com.phemex.weblogin',
       scope: 'email name',
       redirectURI: `${location.origin}/callback`,
       state: 'initial',
